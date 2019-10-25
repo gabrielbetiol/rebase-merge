@@ -1,5 +1,3 @@
-##Repositório de Teste Git
+#Repositorio de Teste Git
 
-Finalidade apenas para aprendizado
-
-Só parada chata
+só parada chata
